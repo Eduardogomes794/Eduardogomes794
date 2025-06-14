@@ -24,7 +24,7 @@
 # 🌐 Social:
 <div>
 <a href="https://www.linkedin.com/in/eduardo-gomes-de-lima-a14952303?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByNYygkRyRUSODXZu6BKTjg%3D%3D" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>   
 </div>
 
