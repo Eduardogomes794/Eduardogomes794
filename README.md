@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/eduardo-gomes-de-lima-a14952303?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByNYygkRyRUSODXZu6BKTjg%3D%3D" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/Eduardogomes794/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Eduardogomes794/Eduardogomes794/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Eduardogomes794/Eduardogomes794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
